@@ -1,5 +1,5 @@
 # -*- mode: python ; coding: utf-8 -*-
-#github version
+#github version2
 
 a = Analysis(
     ['tv_time_app.py'],
