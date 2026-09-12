@@ -1,0 +1,4 @@
+- name: Build with PyInstaller
+      run: |
+        cd Tkinter
+        pyinstaller tv_time_app.spec
