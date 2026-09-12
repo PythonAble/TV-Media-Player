@@ -43,5 +43,3 @@ F11: Toggle Fullscreen
 
 📝 License
 This project is open-source and available under the MIT License.
-
-Would you like to adjust any sections or add specific instructions for your repository?
