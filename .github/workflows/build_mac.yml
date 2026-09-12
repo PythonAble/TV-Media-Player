@@ -1,4 +1,4 @@
 - name: Build with PyInstaller
       run: |
         cd Tkinter
-        pyinstaller tv_time_app.spec
+        pyinstaller --onedir --windowed tv_time_app.py
